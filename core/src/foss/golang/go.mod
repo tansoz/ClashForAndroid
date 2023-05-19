@@ -1,12 +1,12 @@
 module foss
 
-go 1.18
+go 1.20
 
 require cfa v0.0.0
 
 require (
 	cfa/blob v0.0.0 // indirect
-	github.com/Dreamacro/clash v1.7.1 // indirect
+	github.com/Dreamacro/clash v1.15.1 // indirect
 	github.com/Kr328/tun2socket v0.0.0-20220414050025-d07c78d06d34 // indirect
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/gofrs/uuid v4.2.0+incompatible // indirect
